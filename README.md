@@ -53,7 +53,7 @@
 ### 🌍 [PlanetPicks - AI-Powered Sustainability Recommendations](https://github.com/Harsh-986/PlanetPicks-technovate)
 An AI-powered recommendation system that suggests sustainable products based on user preferences.
 
-### 🛒 [ReduxCart]([https://github.com/your-ecommerce-repo](https://github.com/Harsh-986/ReduxCart))
+### 🛒 [ReduxCart](https://github.com/Harsh-986/ReduxCart)
 A fully functional e-commerce website built with **React, Redux Toolkit, and React Router**.
 
 ### 📅 [CareFirst](https://github.com/your-task-manager-repo)
