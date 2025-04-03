@@ -56,8 +56,8 @@ An AI-powered recommendation system that suggests sustainable products based on 
 ### 🛒 [ReduxCart](https://github.com/Harsh-986/ReduxCart)
 A fully functional e-commerce website built with **React, Redux Toolkit, and React Router**.
 
-### 📅 [CareFirst](https://github.com/your-task-manager-repo)
-A simple **MERN Stack** task management app with authentication and CRUD operations.
+### 📅 [CareFirst](https://github.com/Harsh-986/CareFirst)
+CareFirst is a modern UI React-based project focused on delivering a seamless, user-friendly, and visually appealing experience.
 
 
 ## 🏆 GitHub Trophies
